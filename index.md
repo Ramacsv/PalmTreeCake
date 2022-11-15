@@ -19,7 +19,15 @@ _Find out what is CLCO later_
 
 _An Ape sitting on the palm tree dropped a paper sheet._
 
-_It was a coupon for the ingredients_
+_It was a list of ingredients. It turned out to be a recipe for a cake_
+
+_He read the recipe and said wow! this is what I wanted_
+
+_He got some ingredients himself from the store_
+
+_And some from cloud island by calling his mom_
+
+_She sent it through cookie monster_
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
