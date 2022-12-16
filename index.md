@@ -51,7 +51,8 @@ _The fun part is collecting all the ingredients, he took it to cookie monster an
 
 _Cookie maonster started help with mixing flour_
 
-_While sifting and stirring he scaterred all over the plane and on himself_
+_While sifting and stirring the flour he scaterred it all over the place and on himself too
+_
 
 -So Suitecase had to clean up and started mixing by himself_
 
@@ -75,7 +76,7 @@ _6th  bigger than 5th_
 
 _7th the  bigger than 6th_
 
-
+_Ecah layer has one kind of fruit_
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
