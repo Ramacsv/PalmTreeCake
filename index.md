@@ -1,23 +1,26 @@
 ---
-layout: default
+
 ---
 
 
 
-[Fruits](./cake.md)
+------
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 
 ## SuteCase's CLCO
 
 
-_My friend Suitecase walking along the palm tree grove in Oahu Hawaii_
+_My friend Suitecase was sailng and reached  Hawaii_
+
+_And was walking along the palm tree grove in Oahu Hawaii_
+
+------------
+
+_An Ape sitting on the palm tree dropped a paper sheet written on top CLCO ._
 
 _Find out what is CLCO later_
-
-_An Ape sitting on the palm tree dropped a paper sheet._
 
 _It was a list of ingredients. It turned out to be a recipe for a cake_
 
@@ -31,21 +34,25 @@ _She sent it through cookie monster_
 
 _This cake has seven layers with top cloud icing_
 
-_The base is special cloud leaf made of C12H22O11 mould_ xdhclfhf
+_The base is special cloud leaf made of C12H22O11 mould_ 
 
-C16H11N2NaO4S - Orange
+[**Fruits**](./cake.md)
 
-C101H142N24O26S Kiwi
+C16H11N2NaO4S 
 
-C12H14O3 Strawberry
+C101H142N24O26S
 
-C6H8O7 Lemon Citrus
+C12H14O3 
 
-C12H24O2 + CH3(CH2)12COOH + C16H32O2 + C18H34O2 + C18H32O2   = Coconut
+C6H8O7 
 
-C27H31O16  Bluberry
+C12H24O2 + CH3(CH2)12COOH + C16H32O2 + C18H34O2 + C18H32O2  
 
-C17H16O6  Peach
+C27H31O16  
+
+C17H16O6  
+
+C39H66N2O29  and  C6H12O2 
 
 _The fun part is collecting all the ingredients, he took it to cookie monster and gonger kitchen_
 
