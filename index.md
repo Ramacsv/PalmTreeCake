@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./cake.md)
+
+[Fruits](./cake.md)
 
 There should be whitespace between paragraphs.
 
