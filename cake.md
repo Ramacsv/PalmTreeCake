@@ -7,10 +7,14 @@
 # Description Content
 
 
+
+
+
+## _**Formula of Mould**_ 
+
+ C12H22O11 Sucrose (sugar)
+
 ## _**Formula of Fruits**_ 
-
-
-_**Formula of Fruits**_ 
 
 C16H11N2NaO4S - Orange
 
