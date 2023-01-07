@@ -45,7 +45,7 @@ _This cake has seven layers with top cloud icing_
 
 _The base is special cloud leaf made of C12H22O11 mould_ 
 
-[**Fruits**](./cake.md)
+[**Fruits**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;     _click to see_
 
 C16H11N2NaO4S 
 
