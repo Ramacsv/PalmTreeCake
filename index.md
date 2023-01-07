@@ -6,13 +6,18 @@
 
 ------
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
+# SuteCase's CLCO
 
-## SuteCase's CLCO
 
-
-_My friend Suitecase was sailng and reached  Hawaii_
+_My friend Suitecase was sailing and reached  Hawaii_
 
 _And was walking along the palm tree grove in Oahu Hawaii_
 
