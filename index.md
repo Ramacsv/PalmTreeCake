@@ -96,7 +96,11 @@ _Ecah layer has one kind of fruit_
 
 _Finally here it is_
 
+<hr style="border-bottom:5px solid green">
+
 ![alt Palm Fruit Cake](assets/images/cakefruit.svg "CLCO")
 
+<b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
+<hr style="border-top:5px solid green">
 
 ### *Thank You for Visiting*
