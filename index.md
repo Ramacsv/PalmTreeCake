@@ -94,7 +94,4 @@ _7th the  bigger than 6th_
 
 _Ecah layer has one kind of fruit_
 
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-
+### *Thank You for Visiting*
