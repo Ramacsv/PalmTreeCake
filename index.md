@@ -94,4 +94,9 @@ _7th the  bigger than 6th_
 
 _Ecah layer has one kind of fruit_
 
+_Finally here it is_
+
+![alt Palm Fruit Cake](assets/images/cakefruit.svg "CLCO")
+
+
 ### *Thank You for Visiting*
