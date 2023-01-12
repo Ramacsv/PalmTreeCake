@@ -39,13 +39,15 @@ body {
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
 	//background: url(../images/ship.svg) #eae6d1;
-	//background: url(../images/ship3.svg) ;
+	background-image: url(../images/ship3.svg) #f7f5ed;
+	background-position:  center top;
+	background-repeat: no-repeat;
 	// islandPalm.svg
 	background-image: url(../images/islandPalm.svg) ;
 	//background-image: url(../images/ship3.svg)center top, url(../images/islandPalm.svg) center bottom;
 	// background-size: cover;
 	background-repeat: no-repeat;
-	background-position:  center top;
+	background-position:  center bottom;
 }
 
 h1, h2, h3, h4, h5, h6 {
