@@ -39,11 +39,13 @@ body {
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
 	//background: url(../images/ship.svg) #eae6d1;
-	background: url(../images/ship3.svg) ;
+	//background: url(../images/ship3.svg) ;
 	// islandPalm.svg
+	
+	background-image: url(../images/ship3.svg)center top, url(islandPalm.svg) center bottom;
 	// background-size: cover;
 	background-repeat: no-repeat;
-	background-position:  center top;
+	//background-position:  center top;
 }
 
 h1, h2, h3, h4, h5, h6 {
