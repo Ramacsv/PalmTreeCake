@@ -29,7 +29,7 @@ _And was walking along the palm tree grove in Oahu Hawaii_
 
 _An Ape sitting on the palm tree dropped a paper sheet written on top CLCO ._
 
-_Find out what is CLCO later_
+_Find out what is [**CLCO Title**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;_click to see_
 
 _It was a list of ingredients. It turned out to be a recipe for a cake_
 
@@ -45,7 +45,7 @@ _This cake has seven layers with top cloud icing_
 
 _The base is special cloud leaf made of C12H22O11 mould_ 
 
-[**Fruits**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;     _click to see_
+_The list of fruits are_
 
 C16H11N2NaO4S 
 
@@ -62,6 +62,8 @@ C27H31O16
 C17H16O6  
 
 C39H66N2O29  and  C6H12O2 
+
+[**Fruits Names**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;     _click to see_
 
 _The fun part is collecting all the ingredients, he took it to cookie monster and gonger kitchen_
 
