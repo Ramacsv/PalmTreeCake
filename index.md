@@ -89,7 +89,7 @@ _that gives a special taste_
 
 _the top was small_
 
-_the 2nd layer a littlbigger_
+_the 2nd layer a little bigger_
 
 _the 3rd layer bigger than second_
 
@@ -101,7 +101,7 @@ _6th  bigger than 5th_
 
 _7th the  bigger than 6th_
 
-_Ecah layer has one kind of fruit_
+_Each layer has one kind of fruit_
 
 _To bake the cake Suitecase flew near the sun with the cake in a baking tray_
 
@@ -134,7 +134,7 @@ _Suitecase also sent some cake to his mom_
 <b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
 <hr style="border-top:5px solid green">
 
-_The CCLCO cake turned out be very good_
+_The CLCO cake turned out be very good_
 
 # The End
 
