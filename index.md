@@ -98,7 +98,21 @@ _7th the  bigger than 6th_
 
 _Ecah layer has one kind of fruit_
 
+_To bake the cake Suitecase flew near the sun with the cake in a baking tray_
+
+_The tray got hot and baked the cake_
+
+_It started coming down_
+
 _Finally here it is_
+
+_He put up a big tent on the baech_
+
+_He deorated the tent and put chairs and table with lots of goody's_
+
+_The fun part is the cake came through the top opening in the tent and landed on the decorate dtable_
+
+_Every one was surprised the way it was done_
 
 <hr style="border-bottom:5px solid green">
 
@@ -106,5 +120,7 @@ _Finally here it is_
 
 <b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
 <hr style="border-top:5px solid green">
+
+_The CCLCO cake turned out be very good_
 
 ### *Thank You for Visiting*
