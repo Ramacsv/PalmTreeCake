@@ -1,10 +1,8 @@
-----------
+---
 
-----------
+---
 
-&nbsp;
-
-&nbsp;
+---
 
 &nbsp;
 
@@ -18,25 +16,36 @@
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # Description Content
 
+<hr style="border-top:5px solid yellow">
 
 &nbsp;
 
 &nbsp;
 
-### *CLCO is Cloud Leaf Cake cOconut*
+## *CLCO is Cloud Leaf Cake cOconut*
 
 &nbsp;
 
 &nbsp;
 
-
+<hr style="border-top:5px solid red">
 
 ## _**Formula of Mould**_ 
 
  C12H22O11 Sucrose (sugar)
+ 
+ <hr style="border-top:5px solid yellow">
+ 
 
 ## _**Formula of Fruits**_ 
 
