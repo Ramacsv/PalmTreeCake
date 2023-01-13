@@ -31,6 +31,11 @@ _And was walking along the palm tree grove in Oahu Hawaii_
 
 _An Ape sitting on the palm tree dropped a paper sheet written on top CLCO ._
 
+![alt Cuty Ape](assets/images/Monkey.svg "Ape the Monkey")
+
+<b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
+<hr style="border-top:5px solid blue">
+
 _Find out what is [**CLCO Title**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;_click to see_
 
 _It was a list of ingredients. It turned out to be a recipe for a cake_
@@ -110,9 +115,17 @@ _He put up a big tent on the baech_
 
 _He deorated the tent and put chairs and table with lots of goody's_
 
-_The fun part is the cake came through the top opening in the tent and landed on the decorate dtable_
+_The fun part is the cake came through the top opening in the tent and landed on the decorated table_
 
 _Every one was surprised the way it was done_
+
+_All were very happy to see such an unusual cake and the tase was very unique_
+
+_cookie monster came flying in his helicopter along with friends_
+
+_Everyone thanked Suitecase_
+
+_Suitecase also sent some cake to his mom_
 
 <hr style="border-bottom:5px solid green">
 
@@ -123,4 +136,10 @@ _Every one was surprised the way it was done_
 
 _The CCLCO cake turned out be very good_
 
+# The End
+
+## Hope you like my story
+
 ### *Thank You for Visiting*
+
+
