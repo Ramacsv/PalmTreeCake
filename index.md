@@ -1,8 +1,7 @@
 ---
 
----
 
----
+
 
 &nbsp;
 
@@ -22,6 +21,10 @@
 
 # SuteCase's CLCO
 
+[alt SuiteCase](assets/images/suitecase.png "I am SuiteCase")
+
+<b>ramacsv,My Friend SuiteCase </b>
+<hr style="border-top:5px solid purple">
 
 _My friend Suitecase was sailing and reached  Hawaii_
 
@@ -33,7 +36,7 @@ _An Ape sitting on the palm tree dropped a paper sheet written on top CLCO ._
 
 ![alt Cuty Ape](assets/images/Monkey.svg "Ape the Monkey")
 
-<b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
+<b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
 <hr style="border-top:5px solid blue">
 
 _Find out what is [**CLCO Title**](./cake.md)   &nbsp;&nbsp;&nbsp;&nbsp;_click to see_
@@ -111,9 +114,24 @@ _It started coming down_
 
 _Finally here it is_
 
+<hr style="border-bottom:5px solid green">
+
+![alt Palm Fruit Cake](assets/images/cakefruit.svg "CLCO")
+
+<b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
+<hr style="border-top:5px solid green">
+
+
 _He put up a big tent on the baech_
 
 _He deorated the tent and put chairs and table with lots of goody's_
+
+<hr style="border-bottom:5px solid purple">
+
+![alt Party](assets/images/tent.svg "Party")
+
+<b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
+<hr style="border-top:5px solid purple">
 
 _The fun part is the cake came through the top opening in the tent and landed on the decorated table_
 
@@ -127,12 +145,6 @@ _Everyone thanked Suitecase_
 
 _Suitecase also sent some cake to his mom_
 
-<hr style="border-bottom:5px solid green">
-
-![alt Palm Fruit Cake](assets/images/cakefruit.svg "CLCO")
-
-<b>Created by ramacsv with PixelmatorPro, SuiteCase Friend</b>
-<hr style="border-top:5px solid green">
 
 _The CLCO cake turned out be very good_
 
