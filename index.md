@@ -77,7 +77,7 @@ C39H66N2O29  and  C6H12O2
 
 _The fun part is collecting all the ingredients, he took it to cookie monster and gonger kitchen_
 
-_Cookie maonster started help with mixing flour_
+_Cookie monster started help with mixing flour_
 
 _While sifting and stirring the flour he scaterred it all over the place and on himself too
 _
