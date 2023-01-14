@@ -21,7 +21,7 @@
 
 # SuteCase's CLCO
 
-[alt SuiteCase](assets/images/suitecase.png "I am SuiteCase")
+![alt SuiteCase](assets/images/suitecase.png "I am SuiteCase")
 
 <b>ramacsv,My Friend SuiteCase </b>
 <hr style="border-top:5px solid purple">
@@ -126,12 +126,12 @@ _He put up a big tent on the baech_
 
 _He deorated the tent and put chairs and table with lots of goody's_
 
-<hr style="border-bottom:5px solid purple">
+<hr style="border-bottom:5px solid red">
 
 ![alt Party](assets/images/tent.svg "Party")
 
 <b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
-<hr style="border-top:5px solid purple">
+<hr style="border-top:5px solid red">
 
 _The fun part is the cake came through the top opening in the tent and landed on the decorated table_
 
