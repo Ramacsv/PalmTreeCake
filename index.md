@@ -128,7 +128,7 @@ _He deorated the tent and put chairs and table with lots of goody's_
 
 <hr style="border-bottom:5px solid red">
 
-![alt Party](assets/images/tent.svg "Party")
+![alt Party](assets/images/tent2.svg "Party")
 
 <b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
 <hr style="border-top:5px solid red">
