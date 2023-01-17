@@ -116,7 +116,7 @@ _Finally here it is_
 
 <hr style="border-bottom:5px solid green">
 
-![alt Palm Fruit Cake](assets/images/cakefruit.svg "CLCO")
+![alt Palm Fruit Cake](assets/images/cakefruit2.svg "CLCO")
 
 <b>Created by SuiteCase Friend, ramacsv with PixelmatorPro</b>
 <hr style="border-top:5px solid green">
